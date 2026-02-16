@@ -1,6 +1,6 @@
 "use client";
 
-import type { Pattern } from "@/lib/types/pattern";
+import type { Pattern } from "../../lib/types/pattern";
 
 export interface PatternDisplayProps {
   pattern: Pattern | null;

@@ -1,7 +1,7 @@
 "use client";
 
 import { Button } from "@/components/ui/Button";
-import type { Pattern } from "@/lib/types/pattern";
+import type { Pattern } from "../../lib/types/pattern";
 
 export interface PatternDownloadProps {
   pattern: Pattern | null;
